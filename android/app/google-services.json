@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "519077558183",
+    "project_id": "talabaty-f5e19",
+    "storage_bucket": "talabaty-f5e19.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519077558183:android:129c704e8cd11106e96882",
+        "android_client_info": {
+          "package_name": "com.example.talabaty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519077558183-ahc2tsl90pm0lvbhcet4l81as3fea46a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAluNqfVuMlWORUJr1s0005-hTvZpTcLyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519077558183-ahc2tsl90pm0lvbhcet4l81as3fea46a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "519077558183-b8qusn86mf9nqg7hetiugo4u82oe9n9e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.talabaty"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519077558183:android:70e081b5366bc3b2e96882",
+        "android_client_info": {
+          "package_name": "com.example.talabaty_dashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519077558183-ahc2tsl90pm0lvbhcet4l81as3fea46a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAluNqfVuMlWORUJr1s0005-hTvZpTcLyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519077558183-ahc2tsl90pm0lvbhcet4l81as3fea46a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "519077558183-b8qusn86mf9nqg7hetiugo4u82oe9n9e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.talabaty"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
