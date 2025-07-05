@@ -41,48 +41,50 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyA5UocUU60ed8Xg-IDcZZLsW6kOEpnltog',
-    appId: '1:519077558183:web:0ff2295505ee01afe96882',
-    messagingSenderId: '519077558183',
-    projectId: 'talabaty-f5e19',
-    authDomain: 'talabaty-f5e19.firebaseapp.com',
-    storageBucket: 'talabaty-f5e19.firebasestorage.app',
+    apiKey: 'AIzaSyDmPDW0ZGu_Xi_zfVagu_sEs-iDWe-J_VE',
+    appId: '1:755288942596:web:3323dda86b1fe852ddad51',
+    messagingSenderId: '755288942596',
+    projectId: 'phone-zone-614f2',
+    authDomain: 'phone-zone-614f2.firebaseapp.com',
+    storageBucket: 'phone-zone-614f2.firebasestorage.app',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAluNqfVuMlWORUJr1s0005-hTvZpTcLyw',
-    appId: '1:519077558183:android:70e081b5366bc3b2e96882',
-    messagingSenderId: '519077558183',
-    projectId: 'talabaty-f5e19',
-    storageBucket: 'talabaty-f5e19.firebasestorage.app',
+    apiKey: 'AIzaSyBEwaD6HbgVE5wdFfdAxc54agtIAKA4G8w',
+    appId: '1:755288942596:android:c19a88b0f2ddc49eddad51',
+    messagingSenderId: '755288942596',
+    projectId: 'phone-zone-614f2',
+    storageBucket: 'phone-zone-614f2.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBsRGMkt5oqmpuWJqYeGcPgnzVVKwiE254',
-    appId: '1:519077558183:ios:432dc350cb26c74fe96882',
-    messagingSenderId: '519077558183',
-    projectId: 'talabaty-f5e19',
-    storageBucket: 'talabaty-f5e19.firebasestorage.app',
-    iosClientId: '519077558183-5au1i3365tvud563nchcjqdcmn6e4tjc.apps.googleusercontent.com',
+    apiKey: 'AIzaSyCgvSDiSEMB_-hLppT_se6HWyUI9xITDkI',
+    appId: '1:755288942596:ios:50965c2948137827ddad51',
+    messagingSenderId: '755288942596',
+    projectId: 'phone-zone-614f2',
+    storageBucket: 'phone-zone-614f2.firebasestorage.app',
+    androidClientId: '755288942596-a0f06ai5n43n429lfabvh2j0c5g8s1dh.apps.googleusercontent.com',
+    iosClientId: '755288942596-d9r3alnd5pb9hp2rqm61mdojs174ir99.apps.googleusercontent.com',
     iosBundleId: 'com.example.talabatyDashboard',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyBsRGMkt5oqmpuWJqYeGcPgnzVVKwiE254',
-    appId: '1:519077558183:ios:432dc350cb26c74fe96882',
-    messagingSenderId: '519077558183',
-    projectId: 'talabaty-f5e19',
-    storageBucket: 'talabaty-f5e19.firebasestorage.app',
-    iosClientId: '519077558183-5au1i3365tvud563nchcjqdcmn6e4tjc.apps.googleusercontent.com',
+    apiKey: 'AIzaSyCgvSDiSEMB_-hLppT_se6HWyUI9xITDkI',
+    appId: '1:755288942596:ios:50965c2948137827ddad51',
+    messagingSenderId: '755288942596',
+    projectId: 'phone-zone-614f2',
+    storageBucket: 'phone-zone-614f2.firebasestorage.app',
+    androidClientId: '755288942596-a0f06ai5n43n429lfabvh2j0c5g8s1dh.apps.googleusercontent.com',
+    iosClientId: '755288942596-d9r3alnd5pb9hp2rqm61mdojs174ir99.apps.googleusercontent.com',
     iosBundleId: 'com.example.talabatyDashboard',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyA5UocUU60ed8Xg-IDcZZLsW6kOEpnltog',
-    appId: '1:519077558183:web:3db581ae9c1cb6e4e96882',
-    messagingSenderId: '519077558183',
-    projectId: 'talabaty-f5e19',
-    authDomain: 'talabaty-f5e19.firebaseapp.com',
-    storageBucket: 'talabaty-f5e19.firebasestorage.app',
+    apiKey: 'AIzaSyCUXUUW4H_7ymSA1736m9nSd7BPTHXxeU0',
+    appId: '1:755288942596:web:7fc6ce3b53ef7859ddad51',
+    messagingSenderId: '755288942596',
+    projectId: 'phone-zone-614f2',
+    authDomain: 'phone-zone-614f2.firebaseapp.com',
+    storageBucket: 'phone-zone-614f2.firebasestorage.app',
   );
 }

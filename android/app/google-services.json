@@ -1,37 +1,45 @@
 {
   "project_info": {
-    "project_number": "519077558183",
-    "project_id": "talabaty-f5e19",
-    "storage_bucket": "talabaty-f5e19.firebasestorage.app"
+    "project_number": "755288942596",
+    "project_id": "phone-zone-614f2",
+    "storage_bucket": "phone-zone-614f2.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:519077558183:android:129c704e8cd11106e96882",
+        "mobilesdk_app_id": "1:755288942596:android:dcd296e13693f289ddad51",
         "android_client_info": {
-          "package_name": "com.example.talabaty"
+          "package_name": "com.example.phone_zone"
         }
       },
       "oauth_client": [
         {
-          "client_id": "519077558183-ahc2tsl90pm0lvbhcet4l81as3fea46a.apps.googleusercontent.com",
+          "client_id": "755288942596-a0f06ai5n43n429lfabvh2j0c5g8s1dh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.phone_zone",
+            "certificate_hash": "9aeb11ae1cea30c0df473859c93a7118e69c650c"
+          }
+        },
+        {
+          "client_id": "755288942596-q545kkcej5itebvvoj87m53s69323kr0.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAluNqfVuMlWORUJr1s0005-hTvZpTcLyw"
+          "current_key": "AIzaSyBEwaD6HbgVE5wdFfdAxc54agtIAKA4G8w"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "519077558183-ahc2tsl90pm0lvbhcet4l81as3fea46a.apps.googleusercontent.com",
+              "client_id": "755288942596-q545kkcej5itebvvoj87m53s69323kr0.apps.googleusercontent.com",
               "client_type": 3
             },
             {
-              "client_id": "519077558183-b8qusn86mf9nqg7hetiugo4u82oe9n9e.apps.googleusercontent.com",
+              "client_id": "755288942596-2f98t2qq495f7q6060hnkqnq5i4laahq.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
                 "bundle_id": "com.example.talabaty"
@@ -43,31 +51,103 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:519077558183:android:70e081b5366bc3b2e96882",
+        "mobilesdk_app_id": "1:755288942596:android:e10d92ea95028690ddad51",
         "android_client_info": {
-          "package_name": "com.example.talabaty_dashboard"
+          "package_name": "com.example.phonezone"
         }
       },
       "oauth_client": [
         {
-          "client_id": "519077558183-ahc2tsl90pm0lvbhcet4l81as3fea46a.apps.googleusercontent.com",
+          "client_id": "755288942596-q545kkcej5itebvvoj87m53s69323kr0.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAluNqfVuMlWORUJr1s0005-hTvZpTcLyw"
+          "current_key": "AIzaSyBEwaD6HbgVE5wdFfdAxc54agtIAKA4G8w"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "519077558183-ahc2tsl90pm0lvbhcet4l81as3fea46a.apps.googleusercontent.com",
+              "client_id": "755288942596-q545kkcej5itebvvoj87m53s69323kr0.apps.googleusercontent.com",
               "client_type": 3
             },
             {
-              "client_id": "519077558183-b8qusn86mf9nqg7hetiugo4u82oe9n9e.apps.googleusercontent.com",
+              "client_id": "755288942596-2f98t2qq495f7q6060hnkqnq5i4laahq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.talabaty"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755288942596:android:0a6861c2a827be99ddad51",
+        "android_client_info": {
+          "package_name": "com.example.talabaty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755288942596-q545kkcej5itebvvoj87m53s69323kr0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEwaD6HbgVE5wdFfdAxc54agtIAKA4G8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755288942596-q545kkcej5itebvvoj87m53s69323kr0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "755288942596-2f98t2qq495f7q6060hnkqnq5i4laahq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.talabaty"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755288942596:android:c19a88b0f2ddc49eddad51",
+        "android_client_info": {
+          "package_name": "com.example.talabaty_dashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755288942596-q545kkcej5itebvvoj87m53s69323kr0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEwaD6HbgVE5wdFfdAxc54agtIAKA4G8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755288942596-q545kkcej5itebvvoj87m53s69323kr0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "755288942596-2f98t2qq495f7q6060hnkqnq5i4laahq.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
                 "bundle_id": "com.example.talabaty"
